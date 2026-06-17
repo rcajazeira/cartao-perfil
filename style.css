@@ -9,7 +9,7 @@
 
 .body {
    font-family: Arial, sans-serif;
-   background-color: #fe0303;
+   background-color: #fdfdfd;
    display: flex;
    justify-content: center;
    align-items: center;
@@ -18,7 +18,7 @@
 }
 
 .cartao {
-background-color: white;
+background-color: rgb(108, 198, 218);
 padding: 40px;
 border-radius: 10px;
 box-shadow: 0 4px 8px rgba(0,0,0,0.1);
